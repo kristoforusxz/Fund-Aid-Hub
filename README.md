@@ -1,0 +1,1 @@
+FundAidHub is a project my team did at Binus University. It is a user-friendly platform designed to make fundraising easy and impactful. FundAidHub allows the user to create campaigns and also donate. Whether you're raising money for a cause, community project, or personal need, our website provides seamless tools to share your story, engage supporters, and reach your goals. 
